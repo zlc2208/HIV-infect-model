@@ -1,0 +1,73 @@
+\begin{thebibliography}{10}
+
+\bibitem{1}
+Jiahao Zhang, Huangtao Guo, and Yan Wang.
+\newblock A model of hiv infection with two types of target cells and latent
+  infection.
+\newblock {\em Advances in Applied Mathematics}, 2024.
+\newblock https://doi.org/10.12677/aam.2024.136257.
+
+\bibitem{3}
+Charline Bacchus-Souffan, Mark Fitch, Jori Symons, Mohamed Abdel-Mohsen,
+  Daniel~B. Reeves, Rebecca Hoh, Mars Stone, and Joseph~Hiatt et~al.
+\newblock Relationship between cd4 t cell turnover, cellular differentiation
+  and hiv persistence during art.
+\newblock {\em PLOS Pathogens}, 2021.
+\newblock https://doi.org/10.1371/journal.ppat.1009214.
+
+\bibitem{2}
+Lin Shen, Susan Peterson, Ahmad~R Sedaghat, Moira~A McMahon, Marc Callender,
+  Haili Zhang, Yan Zhou, Eleanor Pitt, Karen~S Anderson, Edward~P Acosta, and
+  Robert~F Siliciano.
+\newblock Dose-response curve slope sets class-specific limits on inhibitory
+  potential of anti-hiv drugs.
+\newblock {\em Nature Medicine}, 2008.
+\newblock https://doi.org/10.1038/nm1777.
+
+\bibitem{4}
+A.M. Elaiw and N.H. AlShamrani.
+\newblock Htlv/hiv dual infection: Modeling and analysis.
+\newblock {\em Mathematics}, 2020.
+\newblock https://doi.org/10.3390/math9010051.
+
+\bibitem{5}
+B.M. Adams, H.T. Banks, H.-D. Kwon, and H.T. Tran.
+\newblock Dynamic multidrug therapies for hiv: Optimal and sti control
+  approaches.
+\newblock {\em Mathematical Biosciences and Engineering}, 2004.
+\newblock https://doi.org/10.3934/mbe.2004.1.223.
+
+\bibitem{7}
+Y.~Wang, Y.~Zhou, F.~Brauer, and J.M. Heffernan.
+\newblock Viral dynamics model with ctl immune response incorporating
+  antiretroviral therapy.
+\newblock {\em Journal of Mathematical Biology}, 2012.
+\newblock https://doi.org/10.1007/s00285-012-0580-3.
+
+\bibitem{8}
+H.C. Tuckwell and E.~Le~Corfec.
+\newblock A stochastic model for early hiv-1 population dynamics.
+\newblock {\em Journal of Theoretical Biology}, 1998.
+\newblock https://doi.org/10.1006/jtbi.1998.0806.
+
+\bibitem{9}
+Liu~J. Wang, Y. and L.~Liu.
+\newblock Viral dynamics of an hiv model with latent infection incorporating
+  antiretroviral therapy.
+\newblock {\em Advances in Difference Equations}, 2016.
+\newblock https://doi.org/10.1186/s13662-016-0952-x.
+
+\bibitem{10}
+A.M. Elaiw, A.A. Raezah, and S.A. Azoz.
+\newblock Stability of delayed hiv dynamics models with two latent reservoirs
+  and immune impairment.
+\newblock {\em Advances in Difference Equations}, 2018.
+\newblock https://doi.org/10.1186/s13662-018-1869-3.
+
+\bibitem{11}
+A.S. Perelson and P.W. Nelson.
+\newblock Mathematical analysis of hiv-1 dynamics in vivo.
+\newblock {\em SIAM Review}, 1999.
+\newblock https://doi.org/10.1137/s0036144598335107.
+
+\end{thebibliography}
